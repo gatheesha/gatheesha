@@ -2,8 +2,8 @@
 
 #### i make games 🎮, mostly in godot. 50% of [*gatarita games(ගැටරිටා)*](https://gatheesha.com/gatarita) and usjp bict undegraduate 🇱🇰 <br>
 
-- ⚙️ Use: `godot`, `.psd`, `.ai`
-- 💅 Made: [Massacre of Royalbutts](https://gatheesha.itch.io/royalbutts) and [more games](https://gatheesha.itch.io)
-- 💡 Currently: Learning graphics with glsl and godot.
-- 💬 Find me: on [linkedin](https://gatheesha.itch.io/royalbutts)
-- ❤️ Love: Open source software, soccer and video games as a form of art.
+- ⚙️ uses: `godot`, `.psd`, `.ai`
+- 💅 made: [massacre of royal-butts](https://gatheesha.itch.io/royalbutts) and [more cool games](https://gatheesha.itch.io)
+- 💡 currently: learning graphics with glsl and godot.
+- 💬 find me: on [linkedin](https://www.linkedin.com/in/gatheesha-nipulma-996386326/)
+- ❤️ loves: open source software, soccer and video games as a form of art.
